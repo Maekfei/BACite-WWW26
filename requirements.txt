@@ -1,0 +1,20 @@
+# Core
+torch>=2.0
+torch-geometric>=2.4
+numpy
+scipy
+scikit-learn
+pandas
+networkx
+
+# Data / IO
+tqdm
+requests
+
+# Plotting (figures, analysis)
+matplotlib
+seaborn
+
+# Notes:
+# - Install torch matching your CUDA build first (see https://pytorch.org),
+#   then torch-geometric (see https://pytorch-geometric.readthedocs.io).

@@ -1,0 +1,51 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ---- Secrets / env ----
+.env
+.env.*
+!.env.example
+*.key
+
+# ---- Models / large binaries ----
+*.safetensors
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.joblib
+*.npy
+*.npz
+*.pkl
+*.emb
+*.zip
+*.gz
+
+# ---- Data (never commit; regenerate via the pipeline) ----
+*.jsonl
+*.csv
+*.tsv
+*.xlsx
+maindata/
+data/
+DATA/
+feature_extraction/Detail_year_data/
+
+# ---- Runtime outputs ----
+gnn/results/
+gnn/saved_models/
+gnn/pics/
+checkpoints/
+saved_models/
+logs/
+*.log
+
+# ---- Misc ----
+.DS_Store
+venv/
+.venv/
+*.png
+*.pdf
+*.jpg
