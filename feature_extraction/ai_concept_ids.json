@@ -1,0 +1,147 @@
+{
+  "C119857082": {
+    "name": "Machine learning",
+    "score": 0,
+    "papers": 4064008
+  },
+  "C774472": {
+    "name": "Margin (machine learning)",
+    "score": 0,
+    "papers": 86497
+  },
+  "C46686674": {
+    "name": "Boosting (machine learning)",
+    "score": 0,
+    "papers": 52940
+  },
+  "C108583219": {
+    "name": "Deep learning",
+    "score": 0,
+    "papers": 349504
+  },
+  "C50644808": {
+    "name": "Artificial neural network",
+    "score": 0,
+    "papers": 1081705
+  },
+  "C81363708": {
+    "name": "Convolutional neural network",
+    "score": 0,
+    "papers": 255706
+  },
+  "C147168706": {
+    "name": "Recurrent neural network",
+    "score": 0,
+    "papers": 77922
+  },
+  "C204321447": {
+    "name": "Natural language processing",
+    "score": 0,
+    "papers": 1111148
+  },
+  "C66402592": {
+    "name": "Sentiment analysis",
+    "score": 0,
+    "papers": 55353
+  },
+  "C2777462759": {
+    "name": "Word embedding",
+    "score": 0,
+    "papers": 8296
+  },
+  "C31972630": {
+    "name": "Computer vision",
+    "score": 0,
+    "papers": 2805296
+  },
+  "C126422989": {
+    "name": "Feature detection (computer vision)",
+    "score": 0,
+    "papers": 8160
+  },
+  "C154945302": {
+    "name": "Artificial intelligence",
+    "score": 0,
+    "papers": 16203869
+  },
+  "C176777502": {
+    "name": "Anticipation (artificial intelligence)",
+    "score": 0,
+    "papers": 31166
+  },
+  "C157170001": {
+    "name": "Applications of artificial intelligence",
+    "score": 0,
+    "papers": 6746
+  },
+  "C124101348": {
+    "name": "Data mining",
+    "score": 0,
+    "papers": 2239291
+  },
+  "C139002025": {
+    "name": "Lift (data mining)",
+    "score": 0,
+    "papers": 79383
+  },
+  "C2777598771": {
+    "name": "Educational data mining",
+    "score": 0,
+    "papers": 2779
+  },
+  "C153180895": {
+    "name": "Pattern recognition (psychology)",
+    "score": 0,
+    "papers": 1642307
+  },
+  "C111289621": {
+    "name": "Pattern recognition receptor",
+    "score": 0,
+    "papers": 9657
+  },
+  "C104541649": {
+    "name": "Multispectral pattern recognition",
+    "score": 0,
+    "papers": 5728
+  },
+  "C97541855": {
+    "name": "Reinforcement learning",
+    "score": 0,
+    "papers": 127157
+  },
+  "C188116033": {
+    "name": "Q-learning",
+    "score": 0,
+    "papers": 5111
+  },
+  "C123197309": {
+    "name": "Multi-armed bandit",
+    "score": 0,
+    "papers": 1013
+  },
+  "C136389625": {
+    "name": "Supervised learning",
+    "score": 0,
+    "papers": 18124
+  },
+  "C58973888": {
+    "name": "Semi-supervised learning",
+    "score": 0,
+    "papers": 8509
+  },
+  "C12267149": {
+    "name": "Support vector machine",
+    "score": 0,
+    "papers": 299457
+  },
+  "C8038995": {
+    "name": "Unsupervised learning",
+    "score": 0,
+    "papers": 24278
+  },
+  "C17061570": {
+    "name": "Wake-sleep algorithm",
+    "score": 0,
+    "papers": 1559
+  }
+}
